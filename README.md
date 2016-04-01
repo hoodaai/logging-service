@@ -2,7 +2,7 @@
 
 ## Overview
 
-Design a middle-ware logging component which can handle two types of logs; first is the e-commerce site customer's activities
+Designing a middle-ware logging component which can handle two types of logs; first is the e-commerce site customer's activities
 and second is application logs.
 This logging component will be used by all applications in the organization hence it should be able to keep logs per application. 
 Quick search for application log is required.
